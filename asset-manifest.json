@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/emerick23/react-assessment/static/css/main.feab412a.chunk.css",
+    "main.js": "/emerick23/react-assessment/static/js/main.ec7293b2.chunk.js",
+    "main.js.map": "/emerick23/react-assessment/static/js/main.ec7293b2.chunk.js.map",
+    "runtime~main.js": "/emerick23/react-assessment/static/js/runtime~main.91b6191a.js",
+    "runtime~main.js.map": "/emerick23/react-assessment/static/js/runtime~main.91b6191a.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/emerick23/react-assessment/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/emerick23/react-assessment/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/emerick23/react-assessment/index.html",
+    "precache-manifest.6ed173bec910c6e732ec934234beb674.js": "/emerick23/react-assessment/precache-manifest.6ed173bec910c6e732ec934234beb674.js",
+    "service-worker.js": "/emerick23/react-assessment/service-worker.js",
+    "static/css/main.feab412a.chunk.css.map": "/emerick23/react-assessment/static/css/main.feab412a.chunk.css.map"
+  }
+}
